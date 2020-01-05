@@ -1,0 +1,19 @@
+development:
+  adapter:  postgresql
+  host:     localhost
+  encoding: unicode
+  database: money_net_development
+  pool:     5
+  username: meraj
+  password:
+  template: template0
+
+test:
+  adapter:  postgresql
+  host:     localhost
+  encoding: unicode
+  database: money_net_test
+  pool:     5
+  username: meraj
+  password:
+  template: template0
