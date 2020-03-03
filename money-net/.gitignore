@@ -31,4 +31,7 @@
 
 .generators
 
-.idea
+.idea/
+
+.env.development
+.env.test

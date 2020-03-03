@@ -23,6 +23,8 @@ gem "turbolinks"
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "uglifier"
 gem 'bootsnap', require: false
+gem "dotenv-rails"
+gem "stripe"
 
 group :development do
   gem "foreman"
